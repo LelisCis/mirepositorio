@@ -8,6 +8,45 @@
     border: none;
 }
 
+.btn-codo{
+    background-color: #97c93e;
+    color: white;
+    width: 100%;
+    margin: 2px;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+
+.paracomprar{
+    cursor: pointer;
+}
+
+.card {
+    margin-right: 10px;
+}
+
+
+
+.botones .form-group {
+    margin-right: 10px;
+}
+
+section {
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
 
 
  
